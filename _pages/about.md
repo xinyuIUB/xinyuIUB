@@ -28,7 +28,7 @@ If you’re working in related areas—or simply curious about these topics—
 **feel free to reach out anytime. I’d love to exchange ideas and collaborate.**
 
 📫 Email: *xz125@iu.edu*  
-🔗 LinkedIn: *[your-link](https://www.linkedin.com/in/xinyu-zhang-057379218/)*  
+🔗 LinkedIn: *[Xinyu Zhang](https://www.linkedin.com/in/xinyu-zhang-057379218/)*  
 
 Thanks for visiting my page! 😊
 
