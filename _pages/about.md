@@ -1,15 +1,38 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-As a Ph.D. student jointly trained at Indiana University Bloomington and IU Indianapolis, I explore sensor science, signal processing, quantum computing, and deep learning. What motivates me most is the excitement of discovering new ideas and the joy of turning them into practical solutions. My long-term goal is to build intelligent sensing and computational systems that connect the physical world with advanced machine learning and quantum technologies. I hope my work can contribute tools that are both innovative and genuinely useful to others. I truly enjoy connecting with people who share similar interests. If you are working in related areas—or simply curious about these topics—I warmly welcome you to reach out. I’m always happy to exchange ideas, learn from others, and explore opportunities to collaborate.
+Hi there, I'm Xinyu! 👋
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I’m currently a Ph.D. student jointly trained at **Indiana University Bloomington** and **IU Indianapolis**, exploring the intersection of **sensor science**, **signal processing**, **quantum computing**, and **deep learning**.  
+
+I see research as a journey driven by curiosity and creativity. What excites me most is discovering new ideas and transforming them into practical, meaningful technologies.
+
+🌱 Current Research Interests
+- Intelligent sensing systems  
+- Signal processing and computational modeling  
+- Deep learning for physical systems  
+- Quantum computing and hybrid ML–quantum frameworks  
+
+🎯 Long-Term Vision
+To bridge the physical and computational worlds by developing sensing and learning frameworks that are innovative, reliable, and impactful in real-world environments.
+
+🤝 Let’s Connect!
+I truly enjoy meeting people who share similar interests.  
+If you’re working in related areas—or simply curious about these topics—  
+**feel free to reach out anytime. I’d love to exchange ideas and collaborate.**
+
+📫 Email: *your-email@domain.com*  
+🔗 LinkedIn: *your-link*  
+🌐 Website: *your-website*
+
+Thanks for visiting my page! 😊
+
 
 A data-driven personal website
 ======
